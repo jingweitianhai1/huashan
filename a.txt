@@ -1,5 +1,5 @@
 init001 jingwei
-init002
+init002 xiawa1
 init003
 init004
 init005
