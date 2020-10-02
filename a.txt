@@ -1,5 +1,5 @@
 init001
-init002 xiawa
+init002 xiawa1
 init003
 init004
 init005
